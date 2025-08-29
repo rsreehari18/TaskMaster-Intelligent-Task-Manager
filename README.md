@@ -2,7 +2,7 @@
 
 This is a Task manager application.
 
-🛠️ Tech Stack
+ Tech Stack:
  **Frontend:** React Native (Expo) for a clean, responsive mobile UI  
  **Backend:** Node.js + Express.js for robust API handling  
  **Database:** MongoDB for scalable data storage  
@@ -10,7 +10,7 @@ This is a Task manager application.
  **Design:** Tailwind-inspired styling with modern UI components  
 
 
-## 📸 Screenshots
+Screenshots:
 
 ![Home Screen](screenshots/S1.jpeg)
 ![Tasks Screen](screenshots/S2.jpeg)
